@@ -4,3 +4,6 @@
  cd sales_kpi_dashboard
 
  python -m streamlit run app.py
+
+ deploy
+ https://saleskpidashboard-mdwerqdhczxe9egeac4meh.streamlit.app/
