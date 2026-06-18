@@ -4,4 +4,4 @@ cd sales_kpi_dashboard
 
 pip install pandas numpy matplotlib streamlit seaborn plotly
 
-streamlit run app.py
+python -m streamlit run app.py
