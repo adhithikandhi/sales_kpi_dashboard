@@ -1,7 +1,8 @@
-git clone https://github.com/adhithikandhi/sales_kpi_dashboard.git
+ git clone https://github.com/adhithikandhi/sales_kpi_dashboard.git
 
-cd sales_kpi_dashboard
 
-pip install pandas numpy matplotlib streamlit seaborn plotly
+ cd sales_kpi_dashboard
 
-python -m streamlit run app.py
+ pip install pandas numpy matplotlib streamlit seaborn plotly
+
+ streamlit run app.py
